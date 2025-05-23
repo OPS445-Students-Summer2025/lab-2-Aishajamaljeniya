@@ -1,0 +1,7 @@
+test_file_exists (__main__.lab2a.test_file_exists) ... ok
+test_output (__main__.lab2a.test_output) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.012s
+
+OK
